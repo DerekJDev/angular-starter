@@ -1,6 +1,10 @@
 # angular-starter
 This is a repo to help new angular programmers get started, and follow some healthy coding practices
 
+# Demo
+
+You can look at the [Demo](https://derekjohnson277.github.io/angular-starter/) here.
+
 # Prerequisites
 
 
