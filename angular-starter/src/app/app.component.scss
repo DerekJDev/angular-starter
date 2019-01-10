@@ -1,0 +1,7 @@
+.centered-tour-element {
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  /* minus half of step element's width and height */
+  transform: translate(-140px, -86px);
+}

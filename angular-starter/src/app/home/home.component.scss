@@ -1,0 +1,18 @@
+#container {
+  padding: 10px;
+}
+input[name="screens"] {
+  display: none;
+}
+section.screen {
+  position: absolute;
+  display: none;
+}
+input[name="screens"]:checked+section.screen {
+  display: block;
+}
+label.label-link {
+  color: blue;
+  text-decoration: underline;
+  cursor: pointer;
+}
