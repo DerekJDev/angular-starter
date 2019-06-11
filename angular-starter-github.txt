@@ -1,0 +1,1 @@
+ngh --dir=dist/angular-starter --repo=https://7a18d91c30254e575043770d0dbddd85e6a433e7@github.com/derekjohnson277/angular-starter
